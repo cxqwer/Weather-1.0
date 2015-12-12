@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="screen"
+    android:summary="Description of screen"
+    android:title="Screen">
+
+    <ListPreference
+        android:key="@string/pref_city"
+        android:title="Город"
+        android:summary="Выбор города"
+        android:entries="@array/text_style"
+        android:entryValues="@array/text_style"
+        android:dialogTitle="Выберите город" />
+
+</PreferenceScreen>

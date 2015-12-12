@@ -1,0 +1,58 @@
+<resources>
+    <string name="update">Обновить</string>
+    <string name="app_name">Погода</string>
+    <string name="about">О программе</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="version">Версия 1.0</string>
+    <string name="vk">https://vk.com/id237305280</string>
+    <string name="email">cxqwer@yandex.ru</string>
+    <string name="action_settings">Настройки</string>
+    <string name="phone">+7 989 62 45 178</string>
+    <string name="title_activity_activity_splash">ActivitySplash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="FullName">Чеботарёв Александр Дмитриевич</string>
+
+    <string name="title_activity_config">Настройки</string>
+
+
+    <string name="pref_city">pref_city</string>
+    <string-array name="text_style">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Ростов-на-Дону</item>
+        <item>Нью-Йорк</item>
+        <item>Лондон</item>
+    </string-array>
+
+    <string name="pref_time">pref_time</string>
+    <string-array name="sitting2">
+        <item>5 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>Отключено</item>
+    </string-array>
+
+    <string name="gorod1">Москва</string>
+    <string name="kod1">524901</string>
+    <string name="gorod2">Санкт-Петербург</string>
+    <string name="kod2">519690</string>
+    <string name="gorod3">Ростов-на-Дону</string>
+    <string name="kod3">501175</string>
+    <string name="gorod4">Нью-Йорк</string>
+    <string name="kod4">5128581</string>
+    <string name="gorod5">Лондон</string>
+    <string name="kod5">2643743</string>
+    <string name="t">Влажность:</string>
+
+     <string name="about_text"><p>Данная программа предназначена для отображения погоды в городах Москва, Санкт-Петербург,
+         Ростов-на-Дону, Нью-Йорк, Лондон в реальном времени.</p>
+         <p>Для удобства пользования предначначены специальные элементы программы. Это выдвигающаяся панель, которую можно открыть свайпом
+    с левой части приложения вправо. Также это тулбар, на котором сосредоточены необходимые элементы управления программой.</p></string>
+    <string name="title_activity_about">О программе</string>
+    <string name="title_activity_contact">Назад</string>
+    <string name="main_activity">Ростов-на-дону</string>
+    <string name="title_activity_detail">Назад</string>
+</resources>
